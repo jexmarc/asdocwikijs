@@ -28,7 +28,7 @@ Then specify your search options.
 
 ## Ammo Search Options
 
-> ### Caliber
+> **Caliber**
 > 
 > Most commonly, when searching for ammunition, you should choose a **caliber** that matches your firearm. Our search engine supports over [350 calibers](http://ammoseek.com/calibers/).
 
