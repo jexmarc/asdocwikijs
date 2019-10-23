@@ -9,3 +9,9 @@ Our claim to fame is our ability to search many online retailers for in-stock am
 Start typing a caliber in the search box in the upper right-hand corner, and select a caliber that comes up to jump straight to those search results.
 
 ![Calibersearchbox](/uploads/calibersearchbox.png "Calibersearchbox")
+
+## Use a Quick Seek link
+
+If your caliber is one of the most popular, click on one of the **Quick Seek** links.
+
+![Quickseeklinks](/uploads/quickseeklinks.png "Quickseeklinks")
