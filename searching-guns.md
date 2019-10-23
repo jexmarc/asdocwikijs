@@ -17,7 +17,7 @@ Then specify your search criteria.
 
 > **Include/Exclude Keywords**
 > 
-> Refine your search by including or excluding keywords.
+> Refine your search by including or excluding [keywords].
 
 > **Sorting**
 > 
