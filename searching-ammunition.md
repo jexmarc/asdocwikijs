@@ -36,13 +36,14 @@ Then specify your search options.
 > 
 > If you are looking for a specific brand, you can select it from the Manufacturer pulldown menu.
 
-Shotgun-only options
-Shot Size
+> **Shot Size** (Shotgun Only)
+> 
+> To search for a specific shot size, use the Shot Size pulldown menu.
 
-To search for a specific shot size, use the Shot Size pulldown menu.
-Shell Length
+> **Shell Length** (Shotgun Only)
+> 
+> To search for a specific shell length, use the Shell Length pulldown menu.
 
-To search for a specific shell length, use the Shell Length pulldown menu.
 Grains
 If you're looking for ammo with a specific number of grains, use the Grains pulldown menu. If the number of grains is not listed in the pulldown, it means that for the caliber you have selected, no ammunition with that number of grains is for sale at any of the sites we search.
 Include/Exclude Keywords
