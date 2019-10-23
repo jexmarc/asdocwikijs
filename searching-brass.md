@@ -1,7 +1,7 @@
 <!-- TITLE: Searching Brass -->
 <!-- SUBTITLE: How to search for brass using AmmoSeek.com -->
 
-From the [main AmmoSeek page](https://ammoseek.com/) select **Reloading** and then **Brass**.
+From the [main ammunition search page](https://ammoseek.com/) select **Reloading** and then **Brass**.
 
 ![Searchbrass](/uploads/searchbrass.png "Searchbrass")
 
