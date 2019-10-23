@@ -1,7 +1,7 @@
 <!-- TITLE: Searching Magazines -->
 <!-- SUBTITLE: How to search for mags at AmmoSeek.com -->
 
-From the main page select **Mags**
+From the [main ammunition search page](https://ammoseek.com/) select **Mags**
 
 ![Searchmagazines](/uploads/searchmagazines.png "Searchmagazines")
 
