@@ -6,7 +6,7 @@ Our claim to fame is our ability to search many online retailers for in-stock am
 # Quick Methods
 ## Use the caliber search box
 
-Start typing a caliber in the search box in the upper right-hand corner, and select a caliber that comes up to jump straight to those search results.
+Start typing a caliber in the search box in the upper right-hand corner, and select a caliber that comes up to jump straight to those search results. Note that this is for searching for ammunition only!
 
 ![Calibersearchbox](/uploads/calibersearchbox.png "Calibersearchbox")
 
