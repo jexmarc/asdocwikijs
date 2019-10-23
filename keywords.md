@@ -3,10 +3,10 @@
 
 To help refine your search, you can include or exclude keywords. Any keywords specified will search the following fields: product title, the product URL, the manufacturer name, and the retailer's name. Example of each of these are:
 
-- product title - TulAmmo 9mm Full Metal Jacket Polymer Coated Steel Case, 115 Grain, 1150 fps, 50 Round Box, TA919150
+- product title - `TulAmmo 9mm Full Metal Jacket Polymer Coated Steel Case, 115 Grain, 1150 fps, 50 Round Box, TA919150`
 - product URL - `https://www.laxammo.com/handgun/9mm-ammo/fiocchi-9-mm-subsonic-158-gr-fmj-9ape-detail`
-- manufacturer name - Tula
-- retailer's name - Cheaper Than Dirt
+- manufacturer name - `Tula`
+- retailer's name - `Lax Ammo`
 
 ## Important Considerations
 
