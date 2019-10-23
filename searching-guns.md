@@ -1,5 +1,5 @@
 <!-- TITLE: Searching Guns -->
-<!-- SUBTITLE: A quick summary of Searching Guns -->
+<!-- SUBTITLE: How to search for guns using AmmoSeek.com -->
 
 From the [main page](https://ammoseek.com/) select Guns.
 
