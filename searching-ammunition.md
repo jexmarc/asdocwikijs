@@ -15,3 +15,11 @@ Start typing a caliber in the search box in the upper right-hand corner, and sel
 If your caliber is one of the most popular, click on one of the **Quick Seek** links.
 
 ![Quickseeklinks](/uploads/quickseeklinks.png "Quickseeklinks")
+
+# Use the Search Form
+
+## Choose your ammo type
+
+From the [main page](https://ammoseek.com/) select the **Ammo** tab in the center panel, and then the ammo type (**Handgun**, **Rifle**, **Rimfire**, or **Shotgun**).
+
+![Formammohandgun](/uploads/formammohandgun.png "Formammohandgun")
