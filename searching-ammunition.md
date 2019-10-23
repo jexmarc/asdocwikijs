@@ -34,19 +34,19 @@ Then specify your search options.
 
 > **Manufacturer**
 > 
-> If you are looking for a specific brand, you can select it from the Manufacturer pulldown menu.
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
 
 > **Shot Size** (Shotgun Only)
 > 
-> To search for a specific shot size, use the Shot Size pulldown menu.
+> To search for a specific shot size, use the **Shot Size** pulldown menu.
 
 > **Shell Length** (Shotgun Only)
 > 
-> To search for a specific shell length, use the Shell Length pulldown menu.
+> To search for a specific shell length, use the **Shell Length** pulldown menu.
 
 > **Grains**
 > 
-> If you're looking for ammo with a specific number of grains, use the Grains pulldown menu. If the number of grains is not listed in the pulldown, it means that for the caliber you have selected, no ammunition with that number of grains is for sale at any of the sites we search.
+> If you're looking for ammo with a specific number of grains, use the **Grains** pulldown menu. If the number of grains is not listed in the pulldown, it means that for the caliber you have selected, no ammunition with that number of grains is for sale at any of the sites we search.
 
 > **Include/Exclude Keywords**
 > 
@@ -58,11 +58,11 @@ Then specify your search options.
 
 > **Show/Hide products with purchase limits**
 > 
-> By default, we will not hide products with purchase limits. If you wish to do so, select Hide items with purchase limits from the pulldown menu.
+> By default, we will not hide products with purchase limits. If you wish to do so, select **Hide items with purchase limits** from the pulldown menu.
 
 > **Condition: include/exclude remanufactured ammunition**
 > 
-> By default, we will include remanufactured ammo in the search results. If you wish to exclude remanufactured ammo, select Factory new ammunition only from the pulldown menu.
+> By default, we will include remanufactured ammo in the search results. If you wish to exclude remanufactured ammo, select **Factory new ammunition only** from the pulldown menu.
 
 > **Casing**
 > 
@@ -74,8 +74,8 @@ Then specify your search options.
 
 > **Include Blanks**
 > 
-> By default, we will exclude blank ammunition from the search results. If you wish to include blanks, select Yes, show blanks from the pulldown menu.
+> By default, we will exclude blank ammunition from the search results. If you wish to include blanks, select **Yes, show blanks** from the pulldown menu.
 
 > **Sorting**
 > 
-> By default, the search results will be sorted by the least expensive per round. If you'd like to sort some other way, change the sort method from the Sort pulldown menu.
+> By default, the search results will be sorted by the least expensive per round. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
