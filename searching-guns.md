@@ -1,7 +1,7 @@
 <!-- TITLE: Searching Guns -->
 <!-- SUBTITLE: How to search for guns using AmmoSeek.com -->
 
-From the [main page](https://ammoseek.com/) select **Guns**.
+From the [main ammunition search page](https://ammoseek.com/) select **Guns**.
 
 ![Searchguns](/uploads/searchguns.png "Searchguns")
 
