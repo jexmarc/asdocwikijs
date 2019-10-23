@@ -44,15 +44,23 @@ Then specify your search options.
 > 
 > To search for a specific shell length, use the Shell Length pulldown menu.
 
-Grains
-If you're looking for ammo with a specific number of grains, use the Grains pulldown menu. If the number of grains is not listed in the pulldown, it means that for the caliber you have selected, no ammunition with that number of grains is for sale at any of the sites we search.
-Include/Exclude Keywords
-Refine your search by including or excluding keywords.
+> **Grains**
+> 
+> If you're looking for ammo with a specific number of grains, use the Grains pulldown menu. If the number of grains is not listed in the pulldown, it means that for the caliber you have selected, no ammunition with that number of grains is for sale at any of the sites we search.
 
-Number of rounds
-This pulldown allows you to select lot sizes, in case you wish to only be shown a box of 20 rounds, a case of 1000 rounds, or a range in between.
-Show/Hide products with purchase limits
-By default, we will not hide products with purchase limits. If you wish to do so, select Hide items with purchase limits from the pulldown menu.
+> **Include/Exclude Keywords**
+> 
+> Refine your search by including or excluding keywords.
+
+> **Number of rounds**
+> 
+> This pulldown allows you to select lot sizes, in case you wish to only be shown a box of 20 rounds, a case of 1000 rounds, or a range in between.
+
+> **Show/Hide products with purchase limits**
+> 
+> By default, we will not hide products with purchase limits. If you wish to do so, select Hide items with purchase limits from the pulldown menu.
+
+
 Condition: include/exclude remanufactured ammunition
 By default, we will include remanufactured ammo in the search results. If you wish to exclude remanufactured ammo, select Factory new ammunition only from the pulldown menu.
 Casing
