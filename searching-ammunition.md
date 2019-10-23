@@ -29,8 +29,8 @@ Then specify your search options.
 ## Ammo Search Options
 
 ### Caliber
-	Most commonly, when searching for ammunition, you should choose a caliber that matches your firearm. Our search engine supports over 350 calibers.
-	
+Most commonly, when searching for ammunition, you should choose a **caliber** that matches your firearm. Our search engine supports over [350 calibers](http://ammoseek.com/calibers/).
+
 ### Manufacturer
 If you are looking for a specific brand, you can select it from the Manufacturer pulldown menu.
 Shotgun-only options
