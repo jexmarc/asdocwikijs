@@ -1,5 +1,5 @@
 <!-- TITLE: Searching Powder -->
-<!-- SUBTITLE: A quick summary of Searching Powder -->
+<!-- SUBTITLE: How to search for reloading powder at AmmoSeek.com -->
 
 From the [main ammunition search page] select **Reloading** and then **Powder**.
 
