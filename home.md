@@ -6,4 +6,4 @@ Here you will find documentation and supporting content on how to use AmmoSeek.c
 
 ### [Using AmmoSeek](user-guide)
 
-1. [Take a guided Tour](home/user-guide/site-tour)
+1. [Take a guided Tour](user-guide/site-tour)
