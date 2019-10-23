@@ -10,7 +10,7 @@ To help refine your search, you can include or exclude keywords. Any keywords sp
 
 ## Important Considerations
 
-- Keyword searches are case insensitive, so a search for jhp is the same as a search for **JHP**.
+- Keyword searches are case insensitive, so a search for `jhp` is the same as a search for `JHP`.
 - Keywords should be separated by spaces. Do not use commas.
 - All characters in keywords are treated literally. No wildcards or regular expressions at this time (but perhaps in the future!)
 - Multi-word phrases are not supported at this time, so quotes are not useful.
@@ -18,7 +18,7 @@ To help refine your search, you can include or exclude keywords. Any keywords sp
 
 ## Keyword Search Examples
 
-- To search specifically for XM855 ammo, put XM855 in the Include Keywords box.
-- To search only items from luckygunner.com, put luckygunner.com in the Include Keywords box.
-- To find lead-free ammo, try putting lead-free in the Include Keywords box.
-- To permanently exclude products from particular retailers, do not use the Exclude Keywords box. Instead, use the Exclude Retailers feature.
+- To search specifically for XM855 ammo, put `XM855` in the Include Keywords box.
+- To search only items from luckygunner.com, put `luckygunner.com` in the Include Keywords box.
+- To find lead-free ammo, try putting `lead-free` in the Include Keywords box.
+- To permanently exclude products from particular retailers, do not use the Exclude Keywords box. Instead, use the [Exclude Retailers](exclude-retailers) feature.
