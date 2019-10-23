@@ -1,5 +1,5 @@
 <!-- TITLE: Searching Bullets -->
-<!-- SUBTITLE: A quick summary of Searching Bullets -->
+<!-- SUBTITLE: How to search for reloading bullets at AmmoSeek.com -->
 
 From the [main ammunition search page] select **Reloading** and then **Bullets**.
 
