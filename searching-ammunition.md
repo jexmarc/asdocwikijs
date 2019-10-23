@@ -50,7 +50,7 @@ Then specify your search options.
 
 > **Include/Exclude Keywords**
 > 
-> Refine your search by including or excluding keywords.
+> Refine your search by including or excluding [keywords](keywords).
 
 > **Number of rounds**
 > 
