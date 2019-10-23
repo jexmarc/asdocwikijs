@@ -20,7 +20,7 @@ If your caliber is one of the most popular, click on one of the **Quick Seek** l
 
 ## Choose your ammo type
 
-From the [main AmmoSeek page](https://ammoseek.com/) select the **Ammo** tab in the center panel, and then the ammo type (**Handgun**, **Rifle**, **Rimfire**, or **Shotgun**).
+From the [main ammunition search page](https://ammoseek.com/) select the **Ammo** tab in the center panel, and then the ammo type (**Handgun**, **Rifle**, **Rimfire**, or **Shotgun**).
 
 ![Formammohandgun](/uploads/formammohandgun.png "Formammohandgun")
 
