@@ -60,14 +60,22 @@ Then specify your search options.
 > 
 > By default, we will not hide products with purchase limits. If you wish to do so, select Hide items with purchase limits from the pulldown menu.
 
+> **Condition: include/exclude remanufactured ammunition**
+> 
+> By default, we will include remanufactured ammo in the search results. If you wish to exclude remanufactured ammo, select Factory new ammunition only from the pulldown menu.
 
-Condition: include/exclude remanufactured ammunition
-By default, we will include remanufactured ammo in the search results. If you wish to exclude remanufactured ammo, select Factory new ammunition only from the pulldown menu.
-Casing
-By default, we will not filter on the type of ammo casing. If you wish to search for only ammo with a certain type of casing (brass, steel, aluminum, etc.), select the type from the pulldown menu.
-Shipping Rating
-We rate each retailer on how expensive their shipping charges tend to be, giving them a rating on a scale from High to Low. (See details on our Shipping Estimation here). By default, we will not filter the search results based on the retailer's shipping rating. If you wish, you can exclude results from retailers with "Average" shipping costs or higher.
-Include Blanks
-By default, we will exclude blank ammunition from the search results. If you wish to include blanks, select Yes, show blanks from the pulldown menu.
-Sorting
-By default, the search results will be sorted by the least expensive per round. If you'd like to sort some other way, change the sort method from the Sort pulldown menu.
+> **Casing**
+> 
+> By default, we will not filter on the type of ammo casing. If you wish to search for only ammo with a certain type of casing (brass, steel, aluminum, etc.), select the type from the pulldown menu.
+
+> **Shipping Rating**
+> 
+> We rate each retailer on how expensive their shipping charges tend to be, giving them a rating on a scale from High to Low. (See details on our Shipping Estimation here). By default, we will not filter the search results based on the retailer's shipping rating. If you wish, you can exclude results from retailers with "Average" shipping costs or higher.
+
+> **Include Blanks**
+> 
+> By default, we will exclude blank ammunition from the search results. If you wish to include blanks, select Yes, show blanks from the pulldown menu.
+
+> **Sorting**
+> 
+> By default, the search results will be sorted by the least expensive per round. If you'd like to sort some other way, change the sort method from the Sort pulldown menu.
