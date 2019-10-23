@@ -70,7 +70,7 @@ Then specify your search options.
 
 > **Shipping Rating**
 > 
-> We rate each retailer on how expensive their shipping charges tend to be, giving them a rating on a scale from High to Low. (See details on our Shipping Estimation here). By default, we will not filter the search results based on the retailer's shipping rating. If you wish, you can exclude results from retailers with "Average" shipping costs or higher.
+> We rate each retailer on how expensive their shipping charges tend to be, giving them a rating on a scale from High to Low. ([See details on our Shipping Estimation](https://ammoseek.com/shipping_estimation/). By default, we will not filter the search results based on the retailer's shipping rating. If you wish, you can exclude results from retailers with "Average" shipping costs or higher.
 
 > **Include Blanks**
 > 
