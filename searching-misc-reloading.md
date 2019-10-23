@@ -3,7 +3,7 @@
 
 We list miscellaneous reloading supplies such as dies, presses, molds, tools, etc.
 
-From the [main ammunition search page] select **Reloading** and then **Miscellaneous**
+From the [main ammunition search page](https://ammoseek.com/) select **Reloading** and then **Miscellaneous**
 
 ![Searchreloadingmisc](/uploads/searchreloadingmisc.png "Searchreloadingmisc")
 
