@@ -4,6 +4,7 @@
 Here you will find documentation and supporting content on how to use AmmoSeek.com to the best of its ability.
 
 1. [Take a Guided Site Tour](site-tour)
+
 1. [Searching for Ammunition](searching-ammunition)
     1. [Quick Methods](searching-ammunition#quick-methods)
         1. [Use the caliber search box](searching-ammunition#use-the-caliber-search-box)
