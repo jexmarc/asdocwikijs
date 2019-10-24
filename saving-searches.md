@@ -18,7 +18,7 @@ Currently you cannot modify a saved search. What you *can* do, however, is just 
 1. Click on the one you wish to modify to execute the search.
 1. Modify your search parameters on the search results screen.
 1. Click the orange "Save Search" button to save the new search
-1. Delete the old search, if desired. See Deleting saved searches.
+1. Delete the old search, if desired.
 
 # Deleting Saved Searches
 To view/modify your list of Saved Searches, click the User button at the top of the page (or under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu on mobile devices)., and select **Saved Searches** from the pulldown.
