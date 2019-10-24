@@ -52,12 +52,18 @@ If you specified a mobile phone number when you signed up for an account, you wi
 
 If you were unable to (or chose not to) verify your mobile phone number during the sign-up process, you still have the opportunity. Simply follow these steps:
 
-If you are not logged into AmmoSeek.com, do so by clicking the SignUpSignInButton.png at the top of the page, next to the AmmoSeek logo. (On mobile devices, this is found under the HamburgerMenuSmall.png hamburger menu).
+If you are not logged into AmmoSeek.com, do so by clicking the ![Signupsigninbutton](/uploads/signupsigninbutton.png "Signupsigninbutton") at the top of the page, next to the AmmoSeek logo. (On mobile devices, this is found under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu).
 
 Once you are logged in, click the user button with your name on it.
 
-UserButton.png
-Then select Account Settings from the user menu.
+![Userbutton](/uploads/userbutton.png "Userbutton")
 
-AccountSettings.png
-On the Account Settings screen, double-check to make sure the mobile phone number you entered is correct, and then press the Save button. You will then have to enter the code texted to you to verify the number you provided is yours.
+Then select **Account Settings** from the user menu.
+
+![Accountsettings](/uploads/accountsettings.png "Accountsettings")
+
+On the **Account Settings** screen, double-check to make sure the mobile phone number you entered is correct, and then press the **Save** button. You will then have to enter the code texted to you to verify the number you provided is yours.
+
+![Accountsettingsform](/uploads/accountsettingsform.png "Accountsettingsform")
+
+If you wish to save your account settings without verifying your mobile phone, simply clear out the mobile phone number field. You are free to supply it at a later date, if you wish.
