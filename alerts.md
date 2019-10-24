@@ -23,3 +23,10 @@ It shows that the lowest price at the moment is 17.1¢ per round.
 
 ![1 25 X 25](/uploads/1-25-x-25.png "1 25 X 25") Enter **0.15** into the **Alert Threshold** box in order to be alerted if this same search yields a product that's 15¢ per round or less. If the item currently does not show up in your search, it would say the Current Low is **[none]**. So if you'd like to be alerted when the item appears (at any price), then enter a value of **any**.
 ![2 25 X 25](/uploads/2-25-x-25.png "2 25 X 25") Then, in order to save this threshold and make the alert '**active**' you must move the **Active** slider to ![Slideron](/uploads/slideron.png "Slideron")
+
+# Deactivating Alerts
+Click on the user menu and select **Manage Alerts**
+
+![Managealertsoption](/uploads/managealertsoption.png "Managealertsoption")
+
+Then, move the slider to ![Slideroff](/uploads/slideroff.png "Slideroff") for the alert you wish to deactivate.
