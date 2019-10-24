@@ -40,3 +40,11 @@
 > **How can I find lead-free ammunition?**
 >
 > Typically entering the keyword `lead-free` into the include keywords search box for a given caliber will yield good results for lead-free / non-lead ammunition.
+
+> **Do you sell ammo? What are your shipping rates?**
+>
+> We do not sell ammunition. AmmoSeek is a search engine for finding in-stock ammunition at online retailers. We do not stock or sell ammunition; therefore, we do not have shipping rates.
+
+> **Hi, I'm an avid shooter and have some leftover XXX Ammo to sell. How can I sell it on your site?**
+>
+> I'm sorry but we only list in-stock ammo (and related products) for retailers that have an ongoing business selling online via an ecommerce site. There is a great website for what you want to do though. Check out Gunbroker.com.
