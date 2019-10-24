@@ -1,5 +1,5 @@
 <!-- TITLE: Alerts -->
-<!-- SUBTITLE: A quick summary of Alerts -->
+<!-- SUBTITLE: How to manage price alerts at AmmoSeek.com -->
 
 If you have an account on AmmoSeek.com and are logged in, you can set price thresholds for products that match a Saved Search. If the price threshold is reached, you will immediately be emailed an alert. If you have a mobile phone number activated in your account, you will also receive a text message to alert you.
 
