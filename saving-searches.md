@@ -21,9 +21,10 @@ Currently you cannot modify a saved search. What you *can* do, however, is just 
 1. Delete the old search, if desired. See Deleting saved searches.
 
 # Deleting Saved Searches
-To view/modify your list of Saved Searches, click the User button at the top of the page (or under the HamburgerMenuSmall.png hamburger menu on mobile devices)., and select "Saved Searches" from the pulldown.
+To view/modify your list of Saved Searches, click the User button at the top of the page (or under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu on mobile devices)., and select **Saved Searches** from the pulldown.
 
-SavedSearchesOption.png
-Click the small trash can TrashCan.png next to a Saved Search to delete it.
+![Savedsearchesoption](/uploads/savedsearchesoption.png "Savedsearchesoption")
+
+Click the small trash can ![Trashcan](/uploads/trashcan.png "Trashcan") next to a Saved Search to delete it.
 
 Once deleted, a saved search cannot be retrieved.
