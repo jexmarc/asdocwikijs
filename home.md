@@ -3,8 +3,10 @@
 
 Here you will find documentation and supporting content on how to use AmmoSeek.com to the best of its ability.
 
-1. [Take a guided Tour](site-tour)
+1. [Take a Guided Site Tour](site-tour)
 1. [Searching for Ammunition](searching-ammunition)
+    1. [Quick Methods](searching-ammunition#quick-methods)
+    2. [Using the Search Form](searching-ammunition#use-the-search-form)
 1. [Searching for Guns](searching-guns)
 2. [Searching for Magazines](searching-magazines)
 3. [Searching for Brass](searching-brass)
