@@ -37,8 +37,7 @@
 - [Exclude Retailers](exclude-retailers)
 
 # Frequently Asked Questions (FAQ)
-> **How can I find lead-free ammunition?**
->
+## How can I find lead-free ammunition?
 > Typically entering the keyword `lead-free` into the include keywords search box for a given caliber will yield good results for lead-free / non-lead ammunition.
 
 > **Do you sell ammo? What are your shipping rates?**
