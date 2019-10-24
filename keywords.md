@@ -8,7 +8,7 @@ To help refine your search, you can include or exclude keywords. Any keywords sp
 - **manufacturer name** - `Tula`
 - **retailer's name** - `Lax Ammo`
 
-## Important Considerations
+# Important Considerations
 
 - Keyword searches are case insensitive, so a search for `jhp` is the same as a search for `JHP`.
 - Keywords should be separated by spaces. Do not use commas.
@@ -16,7 +16,7 @@ To help refine your search, you can include or exclude keywords. Any keywords sp
 - Multi-word phrases are not supported at this time, so quotes are not useful.
 - You are allowed up to 10 keywords to include, and 10 keywords to exclude.
 
-## Keyword Search Examples
+# Keyword Search Examples
 
 - To search specifically for XM855 ammo, put `XM855` in the Include Keywords box.
 - To search only items from luckygunner.com, put `luckygunner.com` in the Include Keywords box.
