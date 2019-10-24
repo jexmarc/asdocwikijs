@@ -1,7 +1,7 @@
 <!-- TITLE: User Accounts -->
 <!-- SUBTITLE: All about AmmoSeek.com user accounts and the features they bring -->
 
-## Why sign up for an account?
+# Why sign up for an account?
 
 You can quickly and easily set up an account at AmmoSeek.com. Why would you do this?
 
@@ -13,7 +13,7 @@ You can quickly and easily set up an account at AmmoSeek.com. Why would you do t
 1. **Custom Color Themes** - change the color scheme of the entire site to something that suits you better!
 1. **Get our newsletters**. We sent out a bi-monthly newsletter with news, tips & tricks, and deals we've found along the way. You can opt-out from receiving our newsletters any time you wish.
 
-## Signing Up
+# Signing Up
 
 At the top of the page next to the AmmoSeek logo, click on the **Sign In / Sign Up** button. (On mobile devices, this is found under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu).
 
