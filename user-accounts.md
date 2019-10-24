@@ -43,6 +43,21 @@ NOTE: If you submitted a mobile phone number, you'll need to verify that as well
 
 ***If you cannot find the verification email***:
 
-Check your "spam" or "bulk" mail folder. If this happens, use the mechanisms within you email client to make sure that messages from admin@ammoseek.com are no longer treated as spam.
-If you still can't find the email, go to our main page where you'll see a message containing a link to resend your verification email. If you continue to have trouble, please email us at admin@ammoseek.com from the same account you attempted to sign up with, and we'll do our best to assist you.
-Verifying your mobile phone number
+1. Check your "spam" or "bulk" mail folder. If this happens, use the mechanisms within you email client to make sure that messages from admin@ammoseek.com are no longer treated as spam.
+1. If you still can't find the email, go to our [main ammunition search page](https://ammoseek.com/) where you'll see a message containing a link to resend your verification email. If you continue to have trouble, please email us at `admin@ammoseek.com` from the same account you attempted to sign up with, and we'll do our best to assist you.
+
+## Verifying your mobile phone number
+
+If you specified a mobile phone number when you signed up for an account, you will need to verify that it is indeed yours.
+
+If you were unable to (or chose not to) verify your mobile phone number during the sign-up process, you still have the opportunity. Simply follow these steps:
+
+If you are not logged into AmmoSeek.com, do so by clicking the SignUpSignInButton.png at the top of the page, next to the AmmoSeek logo. (On mobile devices, this is found under the HamburgerMenuSmall.png hamburger menu).
+
+Once you are logged in, click the user button with your name on it.
+
+UserButton.png
+Then select Account Settings from the user menu.
+
+AccountSettings.png
+On the Account Settings screen, double-check to make sure the mobile phone number you entered is correct, and then press the Save button. You will then have to enter the code texted to you to verify the number you provided is yours.
