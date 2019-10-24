@@ -39,7 +39,7 @@ NOTE: If you submitted a mobile phone number, you'll need to verify that as well
 
 - Go to your email and find the message that was dispatched to you. It will have a subject line of: **ACTION REQUIRED: Verify your account with AmmoSeek.com**
 - Inside that email will be a link that, when clicked, will verify that you indeed own the email address you entered when you created your account.
-- Click that link, and then you will be allowed to log into AmmoSeek.com using the same SignUpSignInButton.png button.
+- Click that link, and then you will be allowed to log into AmmoSeek.com using the same ![Signupsigninbutton](/uploads/signupsigninbutton.png "Signupsigninbutton") button.
 
 ***If you cannot find the verification email***:
 
