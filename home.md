@@ -4,7 +4,6 @@
 Here you will find documentation and supporting content on how to use AmmoSeek.com
 
 - [Take a Guided Site Tour](site-tour)
-
 - [Searching for Ammunition](searching-ammunition)
     - [Quick Methods](searching-ammunition#quick-methods)
         - [Use the caliber search box](searching-ammunition#use-the-caliber-search-box)
@@ -24,6 +23,16 @@ Here you will find documentation and supporting content on how to use AmmoSeek.c
     - [Keyword Search Examples](keywords#keyword-search-examples)
 - [Search Results](search-results)
 - [User Accounts](user-accounts)
+    - [Why should you get an account?](user-accounts#why-sign-up-for-an-account)
+    - [Signing Up](user-accounts#signing-up)
+    - [Verifying your email address](user-accounts#verifying-your-email-address)
+    - [Verifying your mobile number](user-accounts#verifying-your-mobile-phone-number)
 - [Saving Searches](saving-searches)
+    - [Saving a Search](saving-searches#saving-a-search)
+    - [Modifying Saved Searches](saving-searches#modifying-saved-searches)
+    - [Deleting Saved Searches](saving-searches#deleting-saved-searches) 
 - [Alerts and Notifications](alerts)
+    - [How Alerts Work](alerts#how-alerts-work)
+    - [Setting Alerts](alerts#setting-alerts)
+    - [Deactivating Alerts](alerts#deactivating-alerts) 
 - [Exclude Retailers](exclude-retailers)
