@@ -8,8 +8,8 @@ The search results pages contains a lot of information you might find useful. Mo
 > - **Limits** - this column alerts you if the retailer has any set purchase limits for the product (e.g. max ![Limit 1](/uploads/limit-1.png "Limit 1") box per customer)
 > - **New?** - this column lets you know if the product is in factory new condition (![New](/uploads/new.png "New")), remanufactured (![Remanufactured](/uploads/remanufactured.png "Remanufactured")), or factory seconds (![Factoryseconds](/uploads/factoryseconds.png "Factoryseconds"))
 > - **S/H** - this column gives you our metered rating for the average shipping costs for retailer in question. [See details on our Shipping Estimation here](https://a.ammoseek.com/shipping_estimation/).
-> - **Err?** - If you notice a discrepancy in our data, click the green flag (GreenFlag.png) to let us know what's wrong. If there's already a Discrepancy.png symbol, it means someone else has already submitted a discrepancy report for that item.
+> - **Err?** - If you notice a discrepancy in our data, click the green flag (![Greenflag](/uploads/greenflag.png "Greenflag")) to let us know what's wrong. If there's already a ![Discrepancy](/uploads/discrepancy.png "Discrepancy") symbol, it means someone else has already submitted a discrepancy report for that item.
 
-**NOTE**: on mobile devices, the results page will have only a few basic fields, with an extra **Details** button you can click to see everything:
+**NOTE**: on mobile and smaller devices, the results page will have only a few basic fields, with an extra **Details** button you can click to see everything:
 
 ![Mobileresultsdetailsbutton](/uploads/mobileresultsdetailsbutton.png "Mobileresultsdetailsbutton")
