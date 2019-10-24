@@ -1,6 +1,7 @@
 <!-- TITLE: Keywords -->
 <!-- SUBTITLE: How to perform keyword searches with AmmoSeek.com -->
 
+# About Keyword Searches
 To help refine your search, you can include or exclude keywords. Any keywords specified will search the following fields: product title, the product URL, the manufacturer name, and the retailer's name. Example of each of these are:
 
 - **product title** - `TulAmmo 9mm Full Metal Jacket Polymer Coated Steel Case, 115 Grain, 1150 fps, 50 Round Box, TA919150`
