@@ -37,6 +37,9 @@
 - [Exclude Retailers](exclude-retailers)
 
 # Frequently Asked Questions (FAQ)
+## Why don't you show the ammo prices including shipping rates?
+We rate each retailer on their average shipping costs. See our Shipping Estimation page for more details. Some sites (e.g. gun-deals.com) purport to factor shipping charges into the price of of the product, but you will notice that not all products have shipping information added in, and the ones that do aren't necessarily accurate since shipping charges vary widely depending on whether or not other items are also purchased at the same time. Plus, some retailers offer free (or very inexpensive) shipping because they already add in the cost of shipping to the price of the product. Therefore, with such varying levels of accuracy, it makes comparison shopping much less clear than if the basic price of the item is used.
+
 ## How can I find lead-free ammunition?
 Typically entering the keyword `lead-free` into the include keywords search box for a given caliber will yield good results for lead-free / non-lead ammunition.
 
@@ -46,5 +49,3 @@ We do not sell ammunition. AmmoSeek is a search engine for finding in-stock ammu
 ## Hi, I'm an avid shooter and have some leftover XXX Ammo to sell. How can I sell it on your site?
 I'm sorry but we only list in-stock ammo (and related products) for retailers that have an ongoing business selling online via an ecommerce site. There is a great website for what you want to do though. Check out Gunbroker.com.
 
-## Why don't you show the ammo prices along with retailers' shipping rates so seekers can get a more accurate idea of the true cost of purchasing the ammo?
-We rate each retailer on their average shipping costs. See our Shipping Estimation page for more details. Some sites (e.g. gun-deals.com) purport to factor shipping charges into the price of of the product, but you will notice that not all products have shipping information added in, and the ones that do aren't necessarily accurate since shipping charges vary widely depending on whether or not other items are also purchased at the same time. Plus, some retailers offer free (or very inexpensive) shipping because they already add in the cost of shipping to the price of the product. Therefore, with such varying levels of accuracy, it makes comparison shopping much less clear than if the basic price of the item is used.
