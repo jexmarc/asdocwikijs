@@ -1,7 +1,7 @@
 <!-- TITLE: AmmoSeek -->
 <!-- SUBTITLE: Welcome the AmmoSeek.com documentation -->
 
-Here you will find documentation and supporting content on how to use
+Here you will find documentation and supporting content on how to use AmmoSeek.com
 
 # User Guide
 
