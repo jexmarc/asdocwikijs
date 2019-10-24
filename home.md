@@ -89,4 +89,4 @@ Yes, some. In an effort to provide the best product data available we invite ret
 No, not at all. We do not endorse or vet retailers we list. Our only requirement for listing a retailers products is whether they provide us with a conforming product data feed based on our specification. We rely on AmmoSeek users to notify us if any retailers are doing malicious things or are continuing to have poor customer support. If a retailer continues to receive complaints we will (and have) banned the retailer from our listings.
 
 # Tutorials (Video)
-## Coming soon (or someday)
+## Coming soon (or maybe someday)
