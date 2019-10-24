@@ -26,7 +26,7 @@ The resulting page contains a form where you can sign up for a free account:
 1. You must provide at least a first name and email address, and you must create a password for use with AmmoSeek.com.
 1. Additionally, if you wish to receive SMS text alerts on your mobile device, you should provide your mobile phone number.
 1. Lastly, we'd appreciate knowing how you first learned about AmmoSeek.com.
-1. Finally, click the Sign Up button at the bottom.
-  2. If you supplied a mobile phone number, you will be given the opportunity to verify it now. (For more details, see Verifying your mobile phone number).
-  2. Otherwise, you should be presented with a message indicating Success!
+1. Finally, click the **Sign Up** button at the bottom.
+    2. If you supplied a mobile phone number, you will be given the opportunity to verify it now. (For more details, see Verifying your mobile phone number).
+    2. Otherwise, you should be presented with a message indicating **Success**!
 1. At this point, you must verify your email address.
