@@ -1,9 +1,9 @@
 <!-- TITLE: AmmoSeek -->
 <!-- SUBTITLE: Welcome the AmmoSeek.com documentation -->
 
-Here you will find documentation and supporting content on how to use AmmoSeek.com
+Here you will find documentation and supporting content on how to use
 
-#User Guide
+# User Guide
 
 - [Take a Guided Site Tour](site-tour)
 - [Searching for Ammunition](searching-ammunition)
