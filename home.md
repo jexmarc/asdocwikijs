@@ -11,8 +11,11 @@ Here you will find documentation and supporting content on how to use AmmoSeek.c
         2. [Use a Quick Seek link](searching-ammunition#use-a-quick-seek-link)
     2. [Using the Search Form](searching-ammunition#use-the-search-form)
         1. [Ammunition Search Options](searching-ammunition#ammo-search-options)
+        
 1. [Searching for Guns](searching-guns)
+
 2. [Searching for Magazines](searching-magazines)
+
 3. [Searching for Brass](searching-brass)
 4. [Searching for Bullets](searching-bullets)
 5. [Searching for Powder](searching-powder)
