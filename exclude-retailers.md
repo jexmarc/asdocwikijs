@@ -18,4 +18,4 @@ Then select as many retailers as you'd like. Each time you select one from the p
 
 ![Exclude Retailers 2 5](/uploads/exclude-retailers-2-5.png "Exclude Retailers 2 5")
 
-When you're finished, click outside the pulldown menu (to the left or right) and then click the SaveButton.png button.
+When you're finished, click outside the pulldown menu (to the left or right) and then click the ![Savebutton](/uploads/savebutton.png "Savebutton") button.
