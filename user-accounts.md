@@ -30,3 +30,19 @@ The resulting page contains a form where you can sign up for a free account:
     1. If you supplied a mobile phone number, you will be given the opportunity to verify it now. (For more details, see Verifying your mobile phone number).
     1. Otherwise, you should be presented with a message indicating **Success**!
 1. At this point, you must verify your email address.
+
+## Verifying your email address
+
+After you submit a request for an account, you will need to verify that the email address you entered is indeed yours.
+
+NOTE: If you submitted a mobile phone number, you'll need to verify that as well as a separate process. See Verifying your mobile phone number.
+
+- Go to your email and find the message that was dispatched to you. It will have a subject line of: **ACTION REQUIRED: Verify your account with AmmoSeek.com**
+- Inside that email will be a link that, when clicked, will verify that you indeed own the email address you entered when you created your account.
+- Click that link, and then you will be allowed to log into AmmoSeek.com using the same SignUpSignInButton.png button.
+
+***If you cannot find the verification email***:
+
+Check your "spam" or "bulk" mail folder. If this happens, use the mechanisms within you email client to make sure that messages from admin@ammoseek.com are no longer treated as spam.
+If you still can't find the email, go to our main page where you'll see a message containing a link to resend your verification email. If you continue to have trouble, please email us at admin@ammoseek.com from the same account you attempted to sign up with, and we'll do our best to assist you.
+Verifying your mobile phone number
