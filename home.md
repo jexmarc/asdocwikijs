@@ -6,7 +6,7 @@
 - [User Guide](home#user-guide)
 - [Frequently Asked Questions](home#frequently-asked-questions-faq)
 - [Ammunition Glossary](home#ammunition-glossary)
-- [Tutorials](home#tutorials)
+- [Tutorials](home#tutorials-video)
 # User Guide
 
 - [Take a Guided Site Tour](site-tour)
