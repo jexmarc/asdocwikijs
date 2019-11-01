@@ -6,6 +6,12 @@ Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell y
 >  # AP: armor-piercing
 > Military bullets with steel or tungsten core that penetrates steel armor. Bullet's tip is usually painted black for easier identification.
 
-## API: armor-piercing incendiary
-Designed to penetrate armor and set target on fire. Tips are usually
-painted light blue.
+> # API: armor-piercing incendiary
+> Designed to penetrate armor and set target on fire. Tips are usually painted light blue.
+
+> # BBWC: bevel-base wadcutter
+> Pistol bullet that's float on both ends; has beveled base to increase accuracy similar to a boat-tail bullet
+
+
+> # BEB: brass-enclosed base
+> Pistol bullet with brass plug over exposed lead base to reduce lead exposure. Many indoor ranges now specify use of this bullet to decrease lead contamination.
