@@ -5,7 +5,7 @@
 
 - [User Guide](home#user-guide)
 - [Frequently Asked Questions](home#frequently-asked-questions-faq)
-- [Ammunition Glossary](home#ammunition-glossary) [Glossary-only Page](ammunition-glossary)
+- [Ammunition Glossary](home#ammunition-glossary) // [Ammunition Glossary Standalone Page](ammunition-glossary)
 - [Tutorials](home#tutorials-video)
 # User Guide
 
