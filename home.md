@@ -4,7 +4,9 @@
 **Contents**
 
 - [User Guide](home#user-guide)
-- [Frequently Asked Questions](home#faq)
+- [Frequently Asked Questions](home#frequently-asked-questions-faq)
+- [Ammunition Glossary](home#ammunition-glossary)
+- [Tutorials](home#tutorials)
 # User Guide
 
 - [Take a Guided Site Tour](site-tour)
