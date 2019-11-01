@@ -90,7 +90,7 @@ No, not at all. We do not endorse or vet retailers we list. Our only requirement
 
 
 # Ammunition Glossary
-[AmmoSeek Ammunition Glossary](ammunition-glossary)
+- [AmmoSeek Ammunition Glossary](ammunition-glossary)
 
 # Tutorials (Video)
 ## Coming soon (or maybe someday)
