@@ -1,5 +1,10 @@
 <!-- TITLE: AmmoSeek -->
 <!-- SUBTITLE: Welcome the AmmoSeek.com documentation -->
+
+**Contents**
+
+- [User Guide](home#user-guide)
+- [Frequently Asked Questions](home#faq)
 # User Guide
 
 - [Take a Guided Site Tour](site-tour)
