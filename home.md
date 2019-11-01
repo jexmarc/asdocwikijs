@@ -1,7 +1,7 @@
 <!-- TITLE: AmmoSeek -->
 <!-- SUBTITLE: Welcome the AmmoSeek.com documentation -->
 
-**Contents**
+# Table of Contents
 
 - [User Guide](home#user-guide)
 - [Frequently Asked Questions](home#frequently-asked-questions-faq)
