@@ -2,7 +2,7 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T03:03:02.920Z
+date: 2019-12-20T03:10:43.833Z
 tags: ammoseek, user-guide
 ---
 
@@ -270,3 +270,87 @@ The search results pages contains a lot of information you might find useful. Mo
 
 **NOTE**: on mobile and smaller devices, the results page will have only a few basic fields, with an extra **Details** button you can click to see everything:
 ![Mobileresultsdetailsbutton](/uploads/mobileresultsdetailsbutton.png "Mobileresultsdetailsbutton")
+
+# User Accounts (Why have one?)
+You can quickly and easily set up an account at AmmoSeek.com. Why would you do this?
+1. **See more than 100 search results**. Anonymous users get to see only 100 results for any search. If you're logged in you can view multiple pages of results.
+1. **You can save bookmark-style links to your favorite searches**. Once you've crafted a search to find what you want, you can "save" that search and then from that moment forth, the same search is only a single click away. See: [Saving Searches](saving-searches).
+1. **You can receive email and SMS/text price alerts**. If you wish to be notified when a particular product hits a specified price threshold, you can set an alert. We'll automatically check every few minutes and let you know instantly if your price threshold is met. See [Setting Alerts](alerts).
+1. **Exclude Retailers** you don't like from your search results, permanently. Maintain a list of any/all retailers you wish to ignore.
+1. **Rate & Review retailers**. Submit reviews for retailers you've used to let others know your experiences.
+1. **Custom Color Themes** - change the color scheme of the entire site to something that suits you better!
+1. **Get our newsletters**. We sent out a bi-monthly newsletter with news, tips & tricks, and deals we've found along the way. You can opt-out from receiving our newsletters any time you wish.
+
+## How to Register for an Account
+At the top of the page next to the AmmoSeek logo, click on the **Sign In / Sign Up** button. (On mobile devices, this is found under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu).
+
+![Signupsigninbutton](/uploads/signupsigninbutton.png "Signupsigninbutton")
+
+The resulting page contains a form where you can sign up for a free account:
+
+![Signupform 2](/uploads/signupform-2.png "Signupform 2")
+1. You must provide at least a first name and email address, and you must create a password for use with AmmoSeek.com.
+1. Additionally, if you wish to receive SMS text alerts on your mobile device, you should provide your mobile phone number.
+1. Lastly, we'd appreciate knowing how you first learned about AmmoSeek.com.
+1. Finally, click the **Sign Up** button at the bottom.
+1. If you supplied a mobile phone number, you will be given the opportunity to verify it now. (For more details, see Verifying your mobile phone number).
+1. Otherwise, you should be presented with a message indicating **Success**!
+1. At this point, you must verify your email address.
+
+# Verifying your email address
+After you submit a request for an account, you will need to verify that the email address you entered is indeed yours.
+
+NOTE: If you submitted a mobile phone number, you'll need to verify that as well as a separate process. See Verifying your mobile phone number.
+
+- Go to your email and find the message that was dispatched to you. It will have a subject line of: **ACTION REQUIRED: Verify your account with AmmoSeek.com**
+- Inside that email will be a link that, when clicked, will verify that you indeed own the email address you entered when you created your account.
+- Click that link, and then you will be allowed to log into AmmoSeek.com using the same ![Signupsigninbutton](/uploads/signupsigninbutton.png "Signupsigninbutton") button.
+
+> ***If you cannot find the verification email***:
+> 
+> 1 - Check your "spam" or "bulk" mail folder. If this happens, use the mechanisms within you email client to make sure that messages from admin@ammoseek.com are no longer treated as spam.
+>
+> 2 - If you still can't find the email, go to our [main ammunition search page](https://ammoseek.com/) where you'll see a message containing a link to resend your verification email. If you continue to have trouble, please email us at `admin@ammoseek.com` from the same account you attempted to sign up with, and we'll do our best to assist you.
+{.is-warning}
+
+# Verifying your mobile phone number
+If you specified a mobile phone number when you signed up for an account, you will need to verify that it is indeed yours.
+If you were unable to (or chose not to) verify your mobile phone number during the sign-up process, you still have the opportunity. Simply follow these steps:
+
+If you are not logged into AmmoSeek.com, do so by clicking the ![Signupsigninbutton](/uploads/signupsigninbutton.png "Signupsigninbutton") at the top of the page, next to the AmmoSeek logo. (On mobile devices, this is found under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu).
+
+Once you are logged in, click the user button with your name on it.
+![Userbutton](/uploads/userbutton.png "Userbutton")
+
+Then select **Account Settings** from the user menu.
+![Accountsettings](/uploads/accountsettings.png "Accountsettings")
+
+On the **Account Settings** screen, double-check to make sure the mobile phone number you entered is correct, and then press the **Save** button. You will then have to enter the code texted to you to verify the number you provided is yours.
+![Accountsettingsform](/uploads/accountsettingsform.png "Accountsettingsform")
+
+If you wish to save your account settings without verifying your mobile phone, simply clear out the mobile phone number field. You are free to supply it at a later date, if you wish.
+
+# Saving a Search
+Once you have crafted your search the way you want it, and the search results are showing you what you expect, you can save your search for quick retrieval later.
+
+First, make sure you are logged into AmmoSeek.com. You should see your name in the user button at the top of the site next to the AmmoSeek logo.
+
+Simply click the **Save This Search & Set Alert** button
+![Savesearchsetalert](/uploads/savesearchsetalert.png "Savesearchsetalert")
+
+Your search will be saved, and then you have a choice to [set an alert](alerts) or **Close** the confirmation dialog to go back to the search results screen. Now, in the left-hand column you'll see a list of your saved searches, organized by product type (ammo, magazines, guns, etc). At any time all you have to do is click the link corresponding to the search in order to run the search again.
+
+# Modifying Saved Searches
+Currently you cannot modify a saved search. What you *can* do, however, is just as easy:
+1. Click on the one you wish to modify to execute the search.
+1. Modify your search parameters on the search results screen.
+1. Click the orange "Save Search" button to save the new search
+1. Delete the old search, if desired.
+
+# Deleting Saved Searches
+To view/modify your list of Saved Searches, click the User button at the top of the page (or under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu on mobile devices)., and select **Saved Searches** from the pulldown.
+
+![Savedsearchesoption](/uploads/savedsearchesoption.png "Savedsearchesoption")
+
+Click the small trash can ![Trashcan](/uploads/trashcan.png "Trashcan") next to a Saved Search to delete it.
+Once deleted, a saved search cannot be retrieved.
