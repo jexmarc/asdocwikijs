@@ -2,7 +2,7 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T03:10:43.833Z
+date: 2019-12-20T03:11:47.793Z
 tags: ammoseek, user-guide
 ---
 
@@ -297,7 +297,7 @@ The resulting page contains a form where you can sign up for a free account:
 1. Otherwise, you should be presented with a message indicating **Success**!
 1. At this point, you must verify your email address.
 
-# Verifying your email address
+## Verifying your email address
 After you submit a request for an account, you will need to verify that the email address you entered is indeed yours.
 
 NOTE: If you submitted a mobile phone number, you'll need to verify that as well as a separate process. See Verifying your mobile phone number.
@@ -313,7 +313,7 @@ NOTE: If you submitted a mobile phone number, you'll need to verify that as well
 > 2 - If you still can't find the email, go to our [main ammunition search page](https://ammoseek.com/) where you'll see a message containing a link to resend your verification email. If you continue to have trouble, please email us at `admin@ammoseek.com` from the same account you attempted to sign up with, and we'll do our best to assist you.
 {.is-warning}
 
-# Verifying your mobile phone number
+## Verifying your mobile phone number
 If you specified a mobile phone number when you signed up for an account, you will need to verify that it is indeed yours.
 If you were unable to (or chose not to) verify your mobile phone number during the sign-up process, you still have the opportunity. Simply follow these steps:
 
@@ -330,7 +330,7 @@ On the **Account Settings** screen, double-check to make sure the mobile phone n
 
 If you wish to save your account settings without verifying your mobile phone, simply clear out the mobile phone number field. You are free to supply it at a later date, if you wish.
 
-# Saving a Search
+# Saved Searches
 Once you have crafted your search the way you want it, and the search results are showing you what you expect, you can save your search for quick retrieval later.
 
 First, make sure you are logged into AmmoSeek.com. You should see your name in the user button at the top of the site next to the AmmoSeek logo.
@@ -340,14 +340,14 @@ Simply click the **Save This Search & Set Alert** button
 
 Your search will be saved, and then you have a choice to [set an alert](alerts) or **Close** the confirmation dialog to go back to the search results screen. Now, in the left-hand column you'll see a list of your saved searches, organized by product type (ammo, magazines, guns, etc). At any time all you have to do is click the link corresponding to the search in order to run the search again.
 
-# Modifying Saved Searches
+## Modifying Saved Searches
 Currently you cannot modify a saved search. What you *can* do, however, is just as easy:
 1. Click on the one you wish to modify to execute the search.
 1. Modify your search parameters on the search results screen.
 1. Click the orange "Save Search" button to save the new search
 1. Delete the old search, if desired.
 
-# Deleting Saved Searches
+## Deleting Saved Searches
 To view/modify your list of Saved Searches, click the User button at the top of the page (or under the ![Hamburgermenusmall](/uploads/hamburgermenusmall.png "Hamburgermenusmall") hamburger menu on mobile devices)., and select **Saved Searches** from the pulldown.
 
 ![Savedsearchesoption](/uploads/savedsearchesoption.png "Savedsearchesoption")
