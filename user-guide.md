@@ -2,32 +2,30 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T02:22:16.036Z
+date: 2019-12-20T02:27:44.146Z
 tags: ammoseek, user-guide
 ---
 
-# AmmoSeek User Guide
-
-## Take a guided Tour
+# Take a guided Tour
 Welcome to AmmoSeek! If you're new to our site, the first thing you may wish to do is take a guided tour. Simply click on the **Help** button at the top of the page and then select **Tour AmmoSeek** from the pulldown menu. Note that when you visit AmmoSeek.com for the very first time you should receive a dialog window pop-up that welcomes you to the site and asks if you'd like to take the tour.
 The screenshot below shows where to access the tour if you didn't receive this popup or if you'd like to initiate the tour again.
 ![Tourammoseekoption](/uploads/tourammoseekoption.png "Tourammoseekoption")
 
-## Searching for Ammunition
+# Searching for Ammunition
 Our claim to fame is our ability to search many online retailers for in-stock ammunition with a quick search on [AmmoSeek.com](https://ammoseek.com). Our ammunition searches are broken down into four sections: handgun, rifle, rimfire, and shotgun. We support over 350 calibers. A full list of our calibers can be found here: http://ammoseek.com/calibers/
-### Quick Methods
-#### Use the caliber search box
+## Quick Methods
+### Use the caliber search box
 Start typing a caliber in the search box in the upper right-hand corner, and select a caliber that comes up to jump straight to those search results. Note that this is for searching for ammunition only!
 ![Calibersearchbox](/uploads/calibersearchbox.png "Calibersearchbox")
-#### Use a Quick Seek link
+### Use a Quick Seek link
 If your caliber is one of the most popular, click on one of the **Quick Seek** links.
 ![Quickseeklinks](/uploads/quickseeklinks.png "Quickseeklinks")
-### Use the Search Form
-#### Choose your ammo type
+## Use the Search Form
+### Choose your ammo type
 From the [main ammunition search page](https://ammoseek.com/) select the **Ammo** tab in the center panel, and then the ammo type (**Handgun**, **Rifle**, **Rimfire**, or **Shotgun**).
 ![Formammohandgun](/uploads/formammohandgun.png "Formammohandgun")
 Then specify your search options.
-### Ammo Search Options
+## Ammo Search Options
 > **Caliber**
 >
 > Most commonly, when searching for ammunition, you should choose a **caliber** that matches your firearm. Our search engine supports over [350 calibers](http://ammoseek.com/calibers/).
