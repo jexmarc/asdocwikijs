@@ -1,5 +1,11 @@
-<!-- TITLE: AmmoSeek -->
-<!-- SUBTITLE: Welcome the AmmoSeek.com documentation -->
+---
+title: AmmoSeek
+description: Welcome the AmmoSeek.com documentation
+published: true
+date: 2019-12-20T00:09:36.073Z
+tags: 
+---
+
 # User Guide
 
 - [Take a Guided Site Tour](site-tour)
@@ -35,6 +41,9 @@
     - [Setting Alerts](alerts#setting-alerts)
     - [Deactivating Alerts](alerts#deactivating-alerts) 
 - [Exclude Retailers](exclude-retailers)
+
+# Ammunition Glossary
+[Ammunition Glossary](ammunition-glossary)
 
 # Frequently Asked Questions (FAQ)
 ## Why don't you show the ammo prices including shipping rates?
