@@ -2,23 +2,23 @@
 title: AmmoSeek
 description: Welcome the AmmoSeek.com documentation
 published: true
-date: 2019-12-20T03:29:16.403Z
+date: 2019-12-20T03:35:31.324Z
 tags: 
 ---
 
 # User Guide
 
-- [Take a Guided Site Tour](/user-guide#take-a-guided-tour)
+- [Take a Guided Site Tour](user-guide#take-a-guided-tour)
 - [Searching for Ammunition](user-guide#searching-for-ammunition)
-- [Searching for Guns](searching-guns)
-- [Searching for Magazines](searching-magazines)
-- [Searching for Brass](searching-brass)
-- [Searching for Bullets](searching-bullets)
-- [Searching for Powder](searching-powder)
-- [Searching for Primers](searching-primers)
-- [Searching for MIscellaneous Reloading Supplies](searching-misc-reloading)
-- [Keywords](keywords)
-- [Search Results](search-results)
+- [Searching for Guns](user-guide#searching-guns)
+- [Searching for Magazines](user-guide#searching-magazines)
+- [Searching for Brass](user-guide#searching-brass)
+- [Searching for Bullets](user-guide#searching-bullets)
+- [Searching for Powder](user-guide#searching-powder)
+- [Searching for Primers](user-guide#searching-primers)
+- [Searching for Miscellaneous Reloading Supplies](user-guide#searching-miscellaneous-reloading)
+- [Using Keywords in Searches](user-guide#using-keywords-in-searches)
+- [Reading the Search Results](user-guid#reading-the-search-results)
 - [User Accounts](user-accounts)
 - [Saving Searches](saving-searches)
 - [Alerts and Notifications](alerts)
