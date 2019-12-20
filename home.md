@@ -2,7 +2,7 @@
 title: AmmoSeek
 description: Welcome the AmmoSeek.com documentation
 published: true
-date: 2019-12-20T03:35:31.359Z
+date: 2019-12-20T03:37:38.443Z
 tags: 
 ---
 
@@ -18,11 +18,11 @@ tags:
 - [Searching for Primers](user-guide#searching-primers)
 - [Searching for Miscellaneous Reloading Supplies](user-guide#searching-miscellaneous-reloading)
 - [Using Keywords in Searches](user-guide#using-keywords-in-searches)
-- [Reading the Search Results](user-guid#reading-the-search-results)
-- [User Accounts](user-accounts)
-- [Saving Searches](saving-searches)
-- [Alerts and Notifications](alerts)
-- [Exclude Retailers](exclude-retailers)
+- [Reading the Search Results](user-guide#reading-the-search-results)
+- [User Accounts (Why?)](user-guide#user-accounts-why)
+- [Saving Searches](user-guide#saved-searches)
+- [Alerts and Notifications](user-guide#alerting-price-alerts)
+- [Exclude Retailers](user-guide#exclude-retailers-from-your-search-results)
 
 # Ammunition Glossary
 [Ammunition Glossary](ammunition-glossary)
