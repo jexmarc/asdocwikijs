@@ -2,13 +2,10 @@
 title: Ammunition Glossary
 description: Glossary of common ammunition terms
 published: true
-date: 2019-12-20T00:07:00.698Z
+date: 2019-12-20T03:17:35.233Z
 tags: 
 ---
 
-<!-- TITLE: Ammunition Glossary -->
-<!-- SUBTITLE: AmmoSeek.com Ammunition Glossary -->
-# Ammunition Glossary
 
 Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell you what they mean and how they're used so you can pick the right one. This document was apropriated from an old glossary posted by CheaperThanDirt.com back when AmmoSeek.com started, so they deserve most of the credit for this. For some reason it is no longer available on their site, and an AmmoSeeker noticed this and suggested we take over the content ourselves... so we did.
 
