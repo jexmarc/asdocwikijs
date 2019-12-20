@@ -2,7 +2,7 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T03:15:55.513Z
+date: 2019-12-20T03:35:03.918Z
 tags: ammoseek, user-guide
 ---
 
@@ -271,7 +271,7 @@ The search results pages contains a lot of information you might find useful. Mo
 **NOTE**: on mobile and smaller devices, the results page will have only a few basic fields, with an extra **Details** button you can click to see everything:
 ![Mobileresultsdetailsbutton](/uploads/mobileresultsdetailsbutton.png "Mobileresultsdetailsbutton")
 
-# User Accounts (Why have one?)
+# User Accounts (Why?)
 You can quickly and easily set up an account at AmmoSeek.com. Why would you do this?
 1. **See more than 100 search results**. Anonymous users get to see only 100 results for any search. If you're logged in you can view multiple pages of results.
 1. **You can save bookmark-style links to your favorite searches**. Once you've crafted a search to find what you want, you can "save" that search and then from that moment forth, the same search is only a single click away. See: [Saving Searches](saving-searches).
