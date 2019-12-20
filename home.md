@@ -2,44 +2,26 @@
 title: AmmoSeek
 description: Welcome the AmmoSeek.com documentation
 published: true
-date: 2019-12-20T00:09:36.073Z
+date: 2019-12-20T03:29:16.403Z
 tags: 
 ---
 
 # User Guide
 
-- [Take a Guided Site Tour](site-tour)
-- [Searching for Ammunition](searching-ammunition)
-    - [Quick Methods](searching-ammunition#quick-methods)
-        - [Use the caliber search box](searching-ammunition#use-the-caliber-search-box)
-        - [Use a Quick Seek link](searching-ammunition#use-a-quick-seek-link)
-    - [Using the Search Form](searching-ammunition#use-the-search-form)
-        - [Ammunition Search Options](searching-ammunition#ammo-search-options)
+- [Take a Guided Site Tour](/user-guide#take-a-guided-tour)
+- [Searching for Ammunition](user-guide#searching-for-ammunition)
 - [Searching for Guns](searching-guns)
 - [Searching for Magazines](searching-magazines)
 - [Searching for Brass](searching-brass)
 - [Searching for Bullets](searching-bullets)
 - [Searching for Powder](searching-powder)
 - [Searching for Primers](searching-primers)
--  [Searching for MIscellaneous Reloading Supplies](searching-misc-reloading)
+- [Searching for MIscellaneous Reloading Supplies](searching-misc-reloading)
 - [Keywords](keywords)
-    - [About Keyword Searches](keywords#about-keyword-searches)
-    - [Important Considerations](keywords#important-considerations)
-    - [Keyword Search Examples](keywords#keyword-search-examples)
 - [Search Results](search-results)
 - [User Accounts](user-accounts)
-    - [Why should you get an account?](user-accounts#why-sign-up-for-an-account)
-    - [Signing Up](user-accounts#signing-up)
-    - [Verifying your email address](user-accounts#verifying-your-email-address)
-    - [Verifying your mobile number](user-accounts#verifying-your-mobile-phone-number)
 - [Saving Searches](saving-searches)
-    - [Saving a Search](saving-searches#saving-a-search)
-    - [Modifying Saved Searches](saving-searches#modifying-saved-searches)
-    - [Deleting Saved Searches](saving-searches#deleting-saved-searches) 
 - [Alerts and Notifications](alerts)
-    - [How Alerts Work](alerts#how-alerts-work)
-    - [Setting Alerts](alerts#setting-alerts)
-    - [Deactivating Alerts](alerts#deactivating-alerts) 
 - [Exclude Retailers](exclude-retailers)
 
 # Ammunition Glossary
