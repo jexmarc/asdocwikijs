@@ -2,7 +2,7 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T03:35:03.918Z
+date: 2019-12-20T03:35:20.458Z
 tags: ammoseek, user-guide
 ---
 
