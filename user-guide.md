@@ -2,7 +2,7 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T02:44:11.003Z
+date: 2019-12-20T02:55:56.708Z
 tags: ammoseek, user-guide
 ---
 
@@ -81,4 +81,160 @@ Our claim to fame is our ability to search many online retailers for in-stock am
 
 > **Sorting**
 > By default, the search results will be sorted by the least expensive per round. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+# Searching Guns
+From the [main ammunition search page](https://ammoseek.com/) select **Guns**.
+
+![Searchguns](/uploads/searchguns.png "Searchguns")
+
+Then specify your search criteria.
+
+> **Caliber**
+> Most commonly, when searching for guns, you should choose a caliber that matches your firearm. Our search engine supports over [350 calibers](http://ammoseek.com/calibers/).
+{.is-success}
+
+> **Manufacturer**
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by price. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+# Searching Magazines
+
+From the [main ammunition search page](https://ammoseek.com/) select **Mags**
+
+![Searchmagazines](/uploads/searchmagazines.png "Searchmagazines")
+
+Then specify your search criteria.
+
+> **Caliber**
+> Most commonly, when searching for magazines, you should choose a caliber that matches your firearm. Our search engine supports over [350 calibers](http://ammoseek.com/calibers/).
+{.is-success}
+
+> **Manufacturer**
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by the least expensive per magazine. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+# Searching Bullets
+
+From the [main ammunition search page] select **Reloading** and then **Bullets**.
+
+![Searchbullets 2](/uploads/searchbullets-2.png "Searchbullets 2")
+
+Then specify your search criteria.
+
+> **Caliber**
+> Most commonly, when searching for bullets, you should choose a caliber. Our search engine supports over [350 calibers](https://ammoseek.com/calibers).
+{.is-success}
+
+> **Manufacturer**
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Grains**
+>If you're looking for bullets with a specific number of grains, use the **Grains** pulldown menu. If the number of grains is not listed in the pulldown, it means that for the caliber you have selected, no bullets with that number of grains is for sale at any of the sites we search.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by the least expensive per bullet. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+# Searching Brass
+
+From the [main ammunition search page](https://ammoseek.com/) select **Reloading** and then **Brass**.
+
+![Searchbrass](/uploads/searchbrass.png "Searchbrass")
+
+Then specify your search criteria.
+
+> **Caliber**
+> Most commonly, when searching for brass casings, you should choose a caliber. Our search engine supports over [350 calibers](https://ammoseek.com/calibers).
+{.is-success}
+
+> **Manufacturer**
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by the least expensive per unit. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+# Searching Primers
+
+From the [main ammunition search page](https://ammoseek.com) select **Reloading** and then **Primers**.
+
+![Searchprimers](/uploads/searchprimers.png "Searchprimers")
+
+> **Manufacturer**
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by the least expensive per unit. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+
+# Searching Powder
+
+From the [main ammunition search page] select **Reloading** and then **Powder**.
+
+![Searchpowder](/uploads/searchpowder.png "Searchpowder")
+
+> **Manufacturer**
+>If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by the least expensive per unit. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
+{.is-success}
+
+# Searching Miscellaneous Reloading
+
+We list miscellaneous reloading supplies such as dies, presses, molds, tools, etc.
+
+From the [main ammunition search page](https://ammoseek.com/) select **Reloading** and then **Miscellaneous**
+
+![Searchreloadingmisc](/uploads/searchreloadingmisc.png "Searchreloadingmisc")
+
+> **Manufacturer**
+> If you are looking for a specific brand, you can select it from the **Manufacturer** pulldown menu.
+{.is-success}
+
+> **Include/Exclude Keywords**
+> Refine your search by including or excluding [keywords](keywords).
+{.is-success}
+
+> **Sorting**
+> By default, the search results will be sorted by the least expensive per unit. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
 {.is-success}
