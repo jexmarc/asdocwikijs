@@ -2,7 +2,7 @@
 title: User Guide
 description: The Definitive AmmoSeek User Guide
 published: true
-date: 2019-12-20T02:55:56.708Z
+date: 2019-12-20T03:03:02.920Z
 tags: ammoseek, user-guide
 ---
 
@@ -238,3 +238,35 @@ From the [main ammunition search page](https://ammoseek.com/) select **Reloading
 > **Sorting**
 > By default, the search results will be sorted by the least expensive per unit. If you'd like to sort some other way, change the sort method from the **Sort** pulldown menu.
 {.is-success}
+
+# Using Keywords in Searches
+To help refine your search, you can include or exclude keywords. Any keywords specified will search the following fields: product title, the product URL, the manufacturer name, and the retailer's name. Example of each of these are:
+- **product title** - `TulAmmo 9mm Full Metal Jacket Polymer Coated Steel Case, 115 Grain, 1150 fps, 50 Round Box, TA919150`
+- **product URL** - `https://www.laxammo.com/handgun/9mm-ammo/fiocchi-9-mm-subsonic-158-gr-fmj-9ape-detail`
+- **manufacturer name** - `Tula`
+- **retailer's name** - `Lax Ammo`
+
+## Important Considerations
+- Keyword searches are case insensitive, so a search for `jhp` is the same as a search for `JHP`.
+- Keywords should be separated by spaces. Do not use commas.
+- All characters in keywords are treated literally. No wildcards or regular expressions at this time (but perhaps in the future!)
+- Multi-word phrases are not supported at this time, so quotes are not useful.
+- You are allowed up to 10 keywords to include, and 10 keywords to exclude.
+
+## Keyword Search Examples
+- To search specifically for XM855 ammo, put `XM855` in the Include Keywords box.
+- To search only items from luckygunner.com, put `luckygunner.com` in the Include Keywords box.
+- To find lead-free ammo, try putting `lead-free` in the Include Keywords box.
+- To permanently exclude products from particular retailers, do not use the Exclude Keywords box. Instead, use the [Exclude Retailers](exclude-retailers) feature.
+
+# Reading the Search Results
+The search results pages contains a lot of information you might find useful. Most fields (Retailer Name, Description, Manufacturer, Caliber, etc.) are self explanatory. Below is some additional information about other fields:
+- **Share** - clicking the ![Share](/uploads/share.png "Share") icon lets you easily share the product via social channels (e.g. Twitter, Facebook, Pinterest, etc.)
+- **When** - this column tell you how long it's been since our database has been updated for this product.
+- **Limits** - this column alerts you if the retailer has any set purchase limits for the product (e.g. max ![Limit 1](/uploads/limit-1.png "Limit 1") box per customer)
+- **New?** - this column lets you know if the product is in factory new condition (![New](/uploads/new.png "New")), remanufactured (![Remanufactured](/uploads/remanufactured.png "Remanufactured")), or factory seconds (![Factoryseconds](/uploads/factoryseconds.png "Factoryseconds"))
+- **S/H** - this column gives you our metered rating for the average shipping costs for retailer in question. [See details on our Shipping Estimation here](https://a.ammoseek.com/shipping_estimation/).
+- **Err?** - If you notice a discrepancy in our data, click the green flag (![Greenflag](/uploads/greenflag.png "Greenflag")) to let us know what's wrong. If there's already a ![Discrepancy](/uploads/discrepancy.png "Discrepancy") symbol, it means someone else has already submitted a discrepancy report for that item.
+
+**NOTE**: on mobile and smaller devices, the results page will have only a few basic fields, with an extra **Details** button you can click to see everything:
+![Mobileresultsdetailsbutton](/uploads/mobileresultsdetailsbutton.png "Mobileresultsdetailsbutton")
