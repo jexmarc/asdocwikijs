@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 <!-- TITLE: Ammunition Glossary -->
 <!-- SUBTITLE: AmmoSeek.com Ammunition Glossary -->
+=======
+---
+title: Ammunition Glossary
+description: Glossary of common ammunition terms
+published: true
+date: 2019-12-20T00:07:00.698Z
+tags: 
+---
+
+<!-- TITLE: Ammunition Glossary -->
+<!-- SUBTITLE: AmmoSeek.com Ammunition Glossary -->
+# Ammunition Glossary
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 
 Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell you what they mean and how they're used so you can pick the right one. This document was apropriated from an old glossary posted by CheaperThanDirt.com back when AmmoSeek.com started, so they deserve most of the credit for this. For some reason it is no longer available on their site, and an AmmoSeeker noticed this and suggested we take over the content ourselves... so we did.
 
@@ -24,7 +38,11 @@ Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell y
 > Used with hunting rifles, this Winchester bullet has a soft metal tip that causes rapid expansion and penetration of bullet. Typically used for varminting and hunting light- and medium-size game.
 
 
+<<<<<<< HEAD
 > # BT: boat-tail 
+=======
+> # BT: boat-tail
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Rifle bullet with truncated conical shape at base of bullet. Streamlining stabilizes bullet and increases accuracy.
 
 
@@ -44,13 +62,21 @@ Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell y
 > # CP: copper-plated
 > Lead bullet dipped in copper; reduces lead fouling and is cheaper than copper coating.
 
+<<<<<<< HEAD
 > # CL: Core-Lokt 
+=======
+> # CL: Core-Lokt
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Remington's premier bonded bullet. Retains up to 95% of original weight with maximum penetration and energy transfer. Progressively tapered jacket initiates and controls expansion nearly 2x. Unique design and bonded lead core delivers performance from 50 to 500 yards.
 
 > # ENCAP: encapsulated
 > Totally plated on all sides to decrease environmental lead contamination. Many indoor ranges use this ammunition exclusively to reduce lead clean-up costs.
 
+<<<<<<< HEAD
 > # EFMJ: expanding full metal jacket 
+=======
+> # EFMJ: expanding full metal jacket
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Federal's answer to areas with restrictions on hollow points. A regular full-metal-jacket bullet with front rubber core covered by a copper jacket. When fired into target media, copper jacket collapses along serrations, produces petal-like expansion and delivers energy without over-penetration.
 
 > # EP: Expanding Point
@@ -59,10 +85,17 @@ Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell y
 > # ERBT: Extended-Range Boat-tail
 > Remington bullet that produces long-range accuracy along with superior stopping power required for hunting.
 
+<<<<<<< HEAD
 > # FMC: full-metal case 
 > Lead core fully enclosed with copper, nickel, brass or steel.
 
 > # FMJ: full-metal jacket 
+=======
+> # FMC: full-metal case
+> Lead core fully enclosed with copper, nickel, brass or steel.
+
+> # FMJ: full-metal jacket
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > A bullet consisting of a soft core, usually made of lead, encased in a shell of harder metal such as copper, cupronickel or steel alloy. Usually the jacket extends on just the front and sides with the rear left as exposed lead, but the outer shell can extend around the entire bullet.
 
 > # FMJBT: full-metal-jacket boat-tail
@@ -86,6 +119,7 @@ Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell y
 > # GCK: gas check
 > Metallic cup or disc is attached to bottom of lead-alloy bullet. Decreases gas blow-by, increases velocity and reduces lead fouling.
 
+<<<<<<< HEAD
 > # GDHP: Gold Dot hollow point 
 > Speer's hollow point bullet with jacket bonded to lead core to prevent separation and control expansion and penetration.
 
@@ -99,17 +133,37 @@ Confused by bullet abbreviations an acronyms used by manufacturers? We'll tell y
 Federal's handgun defense bullet. Unique center-post design delivers controlled expansion. Notched jacket transfers energy efficiently and penetrates barriers while retaining stopping power.
 
 > # HP: hollow point 
+=======
+> # GDHP: Gold Dot hollow point
+> Speer's hollow point bullet with jacket bonded to lead core to prevent separation and control expansion and penetration.
+
+> # GS: Grand Slam
+> Speer's design for hunting big game. Jacket is 45% bigger at base to prevent rollback and retain bullet's weight. Internal jacket flutes ensure proper expansion. Bullet's core is a ternary (three-part) alloy, which is poured into jacket at 900 degrees F to prevent jacket slippage.
+
+> # HBWC: hollow-base wadcutter
+> Preferred by some target shooters, this flat lead bullet with hollow base punches neat, round holes in paper targets and makes scoring easier. Creates better gas seal to prevent gas blow-by and increase velocity.
+
+> # HSHK: Hydra-Shok
+Federal's handgun defense bullet. Unique center-post design delivers controlled expansion. Notched jacket transfers energy efficiently and penetrates barriers while retaining stopping power.
+
+> # HP: hollow point
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Hollow cavity in bullet's nose allows expansion on impact.
 
 > # HPBT: hollow point boat-tail <="" p="" style="border: none;">
 > Rifle bullet with a truncated conical shape at base of bullet. Hollow cavity in nose allows expansion on impact.
 
+<<<<<<< HEAD
 > # HSP: hollow soft point 
+=======
+> # HSP: hollow soft point
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Exposed lead point and hollow cavity in nose permits expansion on impact.
 
 > # HV: high velocity
 > Ammunition with velocity over 1,200 feet per second.
 
+<<<<<<< HEAD
 > # JFP: jacketed flat point 
 > Flat lead point and full metal jacket. All .30-30 Winchesters have this bullet design. The .30-30 Winchester has a tubular magazine and uses a flat-point bullet to prevent accidental detonation during recoil, as front round's primer may come in contact with point of round following it.
 
@@ -132,6 +186,30 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > Lubricated solid lead bullet with semi-pointed nose. Swaged to form sharp shoulder to produce clean holes in paper targets. Good choice for target practice or general shooting.
 
 > # LSWCHP: lead semi-wadcutter hollow point 
+=======
+> # JFP: jacketed flat point
+> Flat lead point and full metal jacket. All .30-30 Winchesters have this bullet design. The .30-30 Winchester has a tubular magazine and uses a flat-point bullet to prevent accidental detonation during recoil, as front round's primer may come in contact with point of round following it.
+
+> # JHC: jacketed hollow cavity
+> Jacketed bullet with hole in tip to promote expansion on impact.
+
+> # JHP: jacketed hollow point
+> Jacketed bullet with hole in tip to promote expansion on impact.
+
+> # JSP: jacketed soft point
+> Jacketed bullet with hole in tip to promote expansion on impact.
+
+> # L: lead
+> An all-lead bullet.
+
+> # LRN: lead round nose
+> Solid lead bullet with round nose.
+
+> # LSWC: lead semi-wadcutter
+> Lubricated solid lead bullet with semi-pointed nose. Swaged to form sharp shoulder to produce clean holes in paper targets. Good choice for target practice or general shooting.
+
+> # LSWCHP: lead semi-wadcutter hollow point
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Lubricated solid lead bullet with hollow point. Swaged to form sharp shoulder to produce clean holes in paper targets. Good choice for target practice or general shooting.
 
 > # MB: multi-ball
@@ -149,16 +227,27 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > # MOLY: moly-coated
 > Bullet is coated with molybdenum disulfide to reduce friction and increase velocity.
 
+<<<<<<< HEAD
 > # NBT: Nosler Ballistic Tip 
 > Nosler developed this bullet with a polycarbonate tip that protects the bullet from damage in the magazine resulting from recoil. The tip also stabilizes the bullet for long-range shooting and insures reliable expansion when the bullet hits its target.
 
 > # NP: Nosler Partition 
+=======
+> # NBT: Nosler Ballistic Tip
+> Nosler developed this bullet with a polycarbonate tip that protects the bullet from damage in the magazine resulting from recoil. The tip also stabilizes the bullet for long-range shooting and insures reliable expansion when the bullet hits its target.
+
+> # NP: Nosler Partition
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Has two lead cores separated by bullet jacket. Top part of jacket is thin and promotes expansion of bullet. Bottom part of bullet has thicker jacket that retains bullet's weight, stops fragmentation and increases penetration.
 
 > # PEP: Positive Expanding Point
 > Specially designed by Winchester for extreme accuracy and maximum impact on varmints and medium-size game.
 
+<<<<<<< HEAD
 > # PG: Partition Gold 
+=======
+> # PG: Partition Gold
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Winchester's proprietary design delivers expansion and penetration on medium- and large-size game at wide range of impact velocities. Rear core is hard lead alloy, locked in place with a heel crimp to prevent core slippage and maximize penetration. Patented steel cup reinforces prevents core distortion at high-impact velocities.
 
 > # PL: Power-Lokt
@@ -167,16 +256,27 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > # PP: Power-Point
 > Jacketed soft nose from Winchester delivers maximum energy on impact. Notches around jacket's mouth improve upset and ensure uniform, rapid expansion.
 
+<<<<<<< HEAD
 > # PSP & PTDSP: pointed soft point 
 > Pointed bullet retains velocity over long ranges. Soft nose initiates rapid bullet expansion. Jacket and core toughness vary according to caliber and weight of bullet.
 
 > # PTHP: Platinum-Tipped Hollow Point 
+=======
+> # PSP & PTDSP: pointed soft point
+> Pointed bullet retains velocity over long ranges. Soft nose initiates rapid bullet expansion. Jacket and core toughness vary according to caliber and weight of bullet.
+
+> # PTHP: Platinum-Tipped Hollow Point
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > A Winchester design for handgun hunters. Immediately transfers bullet's energy into target. Delivers penetration, expansion and accuracy.
 
 > # PWC: pointed wadcutter
 > Lubricated solid lead with pointed nose. Formed by swaging process with sharp shoulder for clean hole-punching in paper targets. Good choice for target practice or general shooting.
 
+<<<<<<< HEAD
 > # RN: round nose 
+=======
+> # RN: round nose
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Round nose promotes positive, reliable feeding.
 
 > # SBK: Sierra BlitzKing
@@ -185,6 +285,7 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > # SFS: Supreme Fail Safe
 > Hollow point bullet with lead core and steel insert. Delivers controlled expansion, deeper penetration and bullet weight retention.
 
+<<<<<<< HEAD
 > # SJHP: semi-jacketed hollow point 
 > Exposed lead tip expands more rapidly than jacketed hollow point design. Controlled penetration provides maximum energy transfer, making it suitable for hunting.
 
@@ -192,6 +293,15 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > Exposed lead soft point with reliable expansion and deeper penetration than hollow point bullets. Copper jacket and swaged lead core improve concentricity, balance and accuracy.
 
 > # SLD: solid 
+=======
+> # SJHP: semi-jacketed hollow point
+> Exposed lead tip expands more rapidly than jacketed hollow point design. Controlled penetration provides maximum energy transfer, making it suitable for hunting.
+
+> # SJSP: semi-jacketed soft point
+> Exposed lead soft point with reliable expansion and deeper penetration than hollow point bullets. Copper jacket and swaged lead core improve concentricity, balance and accuracy.
+
+> # SLD: solid
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Usually made from copper, bronze or brass alloy - but no lead. Designed for deep penetration in thick-skinned animals.
 
 > # SMP: semi-pointed
@@ -200,10 +310,17 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > # SP: soft point
 > Exposed lead tip and broader point diameter provides rapid, controlled expansion at somewhat lower velocities.
 
+<<<<<<< HEAD
 > # SPCE: soft point cutting edge 
 > Semi-jacketed with cut-through jacket edge to partially lock in lead core. Deforms less in light game than heavy game. Used for clawed game hunting.
 
 > # SPCL: soft point Core-Lokt 
+=======
+> # SPCE: soft point cutting edge
+> Semi-jacketed with cut-through jacket edge to partially lock in lead core. Deforms less in light game than heavy game. Used for clawed game hunting.
+
+> # SPCL: soft point Core-Lokt
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Locks progressively heavier jacketed mid-section to lead core, preventing separation but allowing maximum energy transfer. Stays together on impact, expands in a controlled manner and mushrooms uniformly to nearly twice the original diameter.
 
 > # SPT: spitzer
@@ -215,6 +332,7 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > # ST: Silvertip
 > Winchester's design has a special aluminum-alloy nose cap to protect lead core; delivers deep penetration and has controlled expansion in small- and medium-size game.
 
+<<<<<<< HEAD
 > # STHP: Silvertip Hollow Point 
 > Winchester's handgun bullet designed for rapid, controlled expansion to penetrate thin skin, light muscle and bone of small- to medium-size game.
 
@@ -222,6 +340,15 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > Lubricated solid lead bullet with semi-pointed nose. Formed by swaging process, resulting in a sharp shoulder for clean hole-punching in paper targets. Good choice for target practice or general shooting.
 
 > # SXT: Supreme Expansion Technology 
+=======
+> # STHP: Silvertip Hollow Point
+> Winchester's handgun bullet designed for rapid, controlled expansion to penetrate thin skin, light muscle and bone of small- to medium-size game.
+
+> # SWC/SW: semi-wadcutter
+> Lubricated solid lead bullet with semi-pointed nose. Formed by swaging process, resulting in a sharp shoulder for clean hole-punching in paper targets. Good choice for target practice or general shooting.
+
+> # SXT: Supreme Expansion Technology
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
 > Winchester's personal protection bullet. Designed with reverse tapered jacket, has uniform expansion, greater accuracy and reliable firearm functioning.
 
 > # TAP: Tactical Application Police
@@ -246,4 +373,8 @@ Federal's handgun defense bullet. Unique center-post design delivers controlled 
 > Hornady's ballistic-tip varmint bullet has a polymer insert that aids in rapid expansion once bullet hits target.
 
 > # XTP: Extreme Terminal Performance
+<<<<<<< HEAD
 > Hornady bullet designed for controlled expansion at wide range of handgun velocities. Bullet's jacket and core expansion rates are the same, reducing separation and increasing trauma in target.
+=======
+> Hornady bullet designed for controlled expansion at wide range of handgun velocities. Bullet's jacket and core expansion rates are the same, reducing separation and increasing trauma in target.
+>>>>>>> 10bd058767abd43d94770851b45fd311d8d637ca
